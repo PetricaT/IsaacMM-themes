@@ -1,0 +1,44 @@
+# Catppuccin Latte — https://catppuccin.com
+# Light variant with pastel accents
+
+[palette]
+Window      = "#eff1f5"
+WindowText  = "#4c4f69"
+Base        = "#e6e9ef"
+AlternateBase = "#dce0e8"
+Button      = "#ccd0da"
+ButtonText  = "#4c4f69"
+Text        = "#4c4f69"
+Highlight   = "#8839ef"
+HighlightedText = "#eff1f5"
+PlaceholderText = "#9ca0b0"
+
+[palette.mid]
+Accent      = "#8839ef"
+Link        = "#1e66f5"
+
+[colors]
+accent_color       = "#8839ef"
+disabled_mod_color = "#9ca0b0"
+win_color          = "#40a02b"
+lose_color         = "#d20f39"
+dpad_color         = "#5c5f77"
+tag_bg             = "#ccd0da"
+tag_fg             = "#4c4f69"
+folder_label_color = "#7c7f93"
+icon_border_color  = "#bcc0cc"
+separator_color    = "#bcc0cc"
+workshop_missing_color  = "#d20f39"
+workshop_badge_current  = "#40a02b"
+workshop_badge_possible = "#df8e1d"
+workshop_badge_outdated = "#d20f39"
+workshop_badge_default  = "#5c5f77"
+console_bg         = "#e6e9ef"
+console_fg         = "#4c4f69"
+console_border     = "#ccd0da"
+rate_bar_bg        = "#ccd0da"
+log_info_color     = "#4c4f69"
+log_warn_color     = "#df8e1d"
+log_error_color    = "#d20f39"
+preview_border     = "#bcc0cc"
+preview_bg         = "#e6e9ef"

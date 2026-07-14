@@ -1,0 +1,45 @@
+# Nord theme — https://www.nordtheme.com
+# Polar Night / Snow Storm / Frost / Aurora
+
+[palette]
+Window      = "#3b4252"
+WindowText  = "#eceff4"
+Base        = "#2e3440"
+AlternateBase = "#3b4252"
+Button      = "#434c5e"
+ButtonText  = "#eceff4"
+Text        = "#eceff4"
+Highlight   = "#88c0d0"
+HighlightedText = "#2e3440"
+PlaceholderText = "#a6adc8"
+
+[palette.mid]
+# Extra roles used by custom widgets
+Accent      = "#88c0d0"
+Link        = "#81a1c1"
+
+[colors]
+accent_color       = "#88c0d0"
+disabled_mod_color = "#4c566a"
+win_color          = "#a3be8c"
+lose_color         = "#bf616a"
+dpad_color         = "#d8dee9"
+tag_bg             = "#434c5e"
+tag_fg             = "#eceff4"
+folder_label_color = "#7f849c"
+icon_border_color  = "#4c566a"
+separator_color    = "#4c566a"
+workshop_missing_color  = "#bf616a"
+workshop_badge_current  = "#a3be8c"
+workshop_badge_possible = "#ebcb8b"
+workshop_badge_outdated = "#bf616a"
+workshop_badge_default  = "#d8dee9"
+console_bg         = "#2e3440"
+console_fg         = "#d8dee9"
+console_border     = "#3b4252"
+rate_bar_bg        = "#3b4252"
+log_info_color     = "#d8dee9"
+log_warn_color     = "#ebcb8b"
+log_error_color    = "#bf616a"
+preview_border     = "#4c566a"
+preview_bg         = "#2e3440"

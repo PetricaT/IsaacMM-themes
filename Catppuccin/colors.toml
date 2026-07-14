@@ -1,0 +1,44 @@
+# Catppuccin Mocha — https://catppuccin.com
+# Signature dark palette with pastel accents
+
+[palette]
+Window      = "#1e1e2e"
+WindowText  = "#cdd6f4"
+Base        = "#181825"
+AlternateBase = "#313244"
+Button      = "#313244"
+ButtonText  = "#cdd6f4"
+Text        = "#cdd6f4"
+Highlight   = "#cba6f7"
+HighlightedText = "#1e1e2e"
+PlaceholderText = "#6c7086"
+
+[palette.mid]
+Accent      = "#cba6f7"
+Link        = "#89b4fa"
+
+[colors]
+accent_color       = "#cba6f7"
+disabled_mod_color = "#585b70"
+win_color          = "#a6e3a1"
+lose_color         = "#f38ba8"
+dpad_color         = "#bac2de"
+tag_bg             = "#313244"
+tag_fg             = "#cdd6f4"
+folder_label_color = "#7f849c"
+icon_border_color  = "#45475a"
+separator_color    = "#45475a"
+workshop_missing_color  = "#f38ba8"
+workshop_badge_current  = "#a6e3a1"
+workshop_badge_possible = "#f9e2af"
+workshop_badge_outdated = "#f38ba8"
+workshop_badge_default  = "#cdd6f4"
+console_bg         = "#11111b"
+console_fg         = "#cdd6f4"
+console_border     = "#313244"
+rate_bar_bg        = "#181825"
+log_info_color     = "#cdd6f4"
+log_warn_color     = "#f9e2af"
+log_error_color    = "#f38ba8"
+preview_border     = "#45475a"
+preview_bg         = "#11111b"

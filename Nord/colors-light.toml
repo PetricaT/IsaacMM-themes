@@ -1,0 +1,44 @@
+# Nord Frost Light — https://www.nordtheme.com
+# Snow Storm base with Frost accents (light variant)
+
+[palette]
+Window      = "#eceff4"
+WindowText  = "#2e3440"
+Base        = "#e5e9f0"
+AlternateBase = "#d8dee9"
+Button      = "#d8dee9"
+ButtonText  = "#2e3440"
+Text        = "#2e3440"
+Highlight   = "#88c0d0"
+HighlightedText = "#2e3440"
+PlaceholderText = "#7f849c"
+
+[palette.mid]
+Accent      = "#5e81ac"
+Link        = "#5e81ac"
+
+[colors]
+accent_color       = "#5e81ac"
+disabled_mod_color = "#a6adc8"
+win_color          = "#4c6b3f"
+lose_color         = "#bf616a"
+dpad_color         = "#4c566a"
+tag_bg             = "#d8dee9"
+tag_fg             = "#2e3440"
+folder_label_color = "#4c566a"
+icon_border_color  = "#a6adc8"
+separator_color    = "#a6adc8"
+workshop_missing_color  = "#bf616a"
+workshop_badge_current  = "#4c6b3f"
+workshop_badge_possible = "#d08770"
+workshop_badge_outdated = "#bf616a"
+workshop_badge_default  = "#4c566a"
+console_bg         = "#e5e9f0"
+console_fg         = "#2e3440"
+console_border     = "#d8dee9"
+rate_bar_bg        = "#d8dee9"
+log_info_color     = "#2e3440"
+log_warn_color     = "#d08770"
+log_error_color    = "#bf616a"
+preview_border     = "#a6adc8"
+preview_bg         = "#e5e9f0"
